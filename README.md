@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on extracting data from sqlite dbs from KaiOS devices
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/joedinsmoor.svg?style=social&label=Follow%20%40joedinsmoor)](https://twitter.com/joedinsmoor) or [![Mastodon URL](https://img.shields.io/badge/Mastodon-Follow%20on%20Mastodon-red)](https://infosec.exchange/@joedinsmoor)
-- <a rel="me" href="https://infosec.exchange/@joedinsmoor">Mastodon</a>
 - 😄 Pronouns: he/him
 
 
