@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 **About Me**
 
 - 🔭 I’m currently working on extracting data from sqlite dbs from KaiOS devices
@@ -10,6 +12,8 @@
 <a href="https://github.com/joedinsmoor">
     <img src="https://github-stats-alpha.vercel.app/api?username=joedinsmoor&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
+<a rel="me" href="https://infosec.exchange/@joedinsmoor">Mastodon</a>
 
 My Github Stats
 
