@@ -15,7 +15,6 @@
 
 <a rel="me" href="https://infosec.exchange/@joedinsmoor">Mastodon</a>
 
-My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joedinsmoor&theme=dracula) 
 
