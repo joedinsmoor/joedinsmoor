@@ -4,7 +4,7 @@
 
 **About Me**
 
-- 🔭 I’m currently working on extracting data from [sqlite dbs from KaiOS devices](https://github.com/joedinsmoor/sqlite_scraper) as well as adding artifacting for Hyundai Vehicles to [VLEAPP](https://github.com/abrignoni/VLEAPP)
+- 🔭 I’m currently working on extracting data from [sqlite dbs from KaiOS devices](https://github.com/joedinsmoor/sqlite_scraper) as well as adding artifacting for Hyundai Vehicles to [VLEAPP](https://github.com/abrignoni/VLEAPP). I am also starting development for [my personal website](https://github.com/joedinsmoor/dinsmoor.io) using MDBootstrap with Node.JS
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/joedinsmoor.svg?style=social&label=Follow%20%40joedinsmoor)](https://twitter.com/joedinsmoor) or [![Mastodon URL](https://img.shields.io/badge/Mastodon-Follow%20on%20Mastodon-red)](https://infosec.exchange/@joedinsmoor)
 - 😄 Pronouns: he/him
 
