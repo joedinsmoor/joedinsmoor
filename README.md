@@ -8,13 +8,7 @@
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/joedinsmoor.svg?style=social&label=Follow%20%40joedinsmoor)](https://twitter.com/joedinsmoor), [![Mastodon URL](https://img.shields.io/badge/Mastodon-Follow%20on%20Mastodon-red)](https://infosec.exchange/@joedinsmoor), or <a href="https://www.linkedin.com/in/joseph-dinsmoor/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-- 😄 Pronouns: he/him
-  
-
-  
-
-
-
+- 😄 Pronouns: he/him <br>
   <a href="https://github.com/joedinsmoor">
     <img src="https://github-stats-alpha.vercel.app/api?username=joedinsmoor&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
