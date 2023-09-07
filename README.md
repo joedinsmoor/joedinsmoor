@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 - 😄 Pronouns: he/him
+  
 
   
 
