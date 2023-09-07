@@ -10,6 +10,8 @@
 </a>
 - 😄 Pronouns: he/him
 
+  
+
 
 <a href="https://github.com/joedinsmoor">
     <img src="https://github-stats-alpha.vercel.app/api?username=joedinsmoor&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
