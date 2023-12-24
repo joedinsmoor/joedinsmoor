@@ -20,7 +20,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joedinsmoor&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joedinsmoor&theme=dracula)
-
-**Currently Listening To:**
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000374.3682d1f8e273430396cbbc2e1e4353d8.1830)](https://github.com/rayriffy/apple-music-github-profile)
