@@ -28,13 +28,13 @@
 goombafont;
 color:black;
 pointer-events:none;
-z-index: -11;
+z-index: 0;
 position: fixed;
 inset:0;
 object-fit: cover;
 background-size: fill;
-width: 10000vw;
-height: 10000vh;
-opacity: 0.71;
+width: 1000vw;
+height: 1000vh;
+opacity: 1;
 background: url('https://raw.githubusercontent.com/joedinsmoor/joedinsmoor/main/IMG_5204.jpg');
 "]{}
