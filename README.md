@@ -15,19 +15,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joedinsmoor&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joedinsmoor&theme=dark)
 
-
-```math
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:black;
-pointer-events:none;
-z-index: 0;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: fill;
-width: 1000vw;
-height: 1000vh;
-opacity: 1;
-background: url('https://raw.githubusercontent.com/joedinsmoor/joedinsmoor/main/IMG_5204.jpg');
-"]{}
