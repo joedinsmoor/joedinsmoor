@@ -5,10 +5,6 @@
 </a>
 -  Pronouns: he/him <br>
 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joedinsmoor&theme=dark) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joedinsmoor&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joedinsmoor&theme=dark)
 
