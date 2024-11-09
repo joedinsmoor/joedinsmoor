@@ -4,9 +4,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 -  Pronouns: he/him <br>
-  <a href="https://github.com/joedinsmoor">
-    <img src="https://github-stats-alpha.vercel.app/api?username=joedinsmoor&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
 
 
 
